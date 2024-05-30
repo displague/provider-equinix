@@ -1,5 +1,8 @@
 # provider-equinix
 
+> [!WARNING]
+> **Deprecated** Use <https://github.com/crossplane-contrib/provider-jet-equinix> instead.
+
 ## Overview
 
 `provider-equinix` is the Crossplane infrastructure provider for [Equinix](https://www.equinix.com/).
