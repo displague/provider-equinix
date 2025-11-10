@@ -1,3 +1,3 @@
-## Community Code of Conduct
+## Code of Conduct
 
-This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+Upjet is under [the Apache 2.0 license](LICENSE) with [notice](NOTICE).
